@@ -1,4 +1,4 @@
 # Acer
 This is my git repository.
 <br>
-Author-Shaun
+Author-Shaun (My Name)
